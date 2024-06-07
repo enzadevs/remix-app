@@ -12,6 +12,8 @@ export default function RootPage() {
     <div
       style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.8" }}
       className="flex flex-col text-sm min-h-screen w-full"
-    ></div>
+    >
+      <p>Hello REMIX</p>
+    </div>
   );
 }
